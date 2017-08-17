@@ -27,4 +27,3 @@ Những tính từ (adjectives) bạn nên dùng để tránh 'very'
 |22  | short          | brief          |
 |23  | shy            | timid          |
 |24  | simple         | basic          |
-|:---| :--------------| :------------- |
