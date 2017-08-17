@@ -1,2 +1,8 @@
 # IELTS
-- [Cách để tránh 'very' như một native speaker](docs/avoidVery.md)
+
+## Basic English
+
+- [Đừng nên dùng 'very'](docs/avoidVery.md)
+- [Phát âm với -ed](docs/ed-sounds.md)
+
+## Ielts training

@@ -1,5 +1,8 @@
-# Avoid very
-Những tính từ (adjectives) bạn nên dùng để tránh 'very'
+# English - Vocabulary
+Những tính từ bạn nên dùng để tránh 'very'
+
+Ví dụ:
+- He's very rich = He's wealthy
 
 | No | very           | adjectives     |
 |:---| :--------------| :------------- |
