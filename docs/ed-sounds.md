@@ -45,4 +45,4 @@ Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: /id/, /t/ và /d/
 
 ### Ghi chú
 
-Bạn có thể phân biệt voiced và voiceless bằng cách đặt tay lên cổ họng khi phát âm. Những Voiced sounds sẽ làm cổ họng rung khi phát âm và ngược lại voiceless sounds thì không (giờ thì bạn biết cái tên gọi bắt nguồn từ đâu rồi đấy). 
+Bạn có thể phân biệt voiced và voiceless bằng cách đặt tay lên cổ họng khi phát âm. Những Voiced sounds sẽ làm cổ họng rung khi phát âm và ngược lại voiceless sounds thì không (giờ thì bạn biết cái tên gọi bắt nguồn từ đâu rồi đấy).
