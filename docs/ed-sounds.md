@@ -1,25 +1,28 @@
-# English - Pronunciation
+# Phát âm -ed cho đúng
 
 Mục tiêu của bài viết này để giúp *ai đó* phân biệt cách phát âm của các động từ khi gắn thêm -ed (V-ed)
 
-Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: /id/,/t/ và /d/
-1. /id/ sound
+Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: [**id**](#header 1), [**t**](#header 2) và [**d**](#header 3)
 
-    Bạn sẽ phát âm /id/ khi theo sau *âm* **t** hoặc **d**
+### 1. /id/ sound
 
-    Ví dụ:
-        plant /plænt /   -> plant-ed /plænt-id/
-        decide /dɪˈsaɪd/ -> decide-d /dɪˈsaɪd-id/
-2. /t/ sound
+  Bạn sẽ phát âm /id/ khi theo sau *âm* **t** hoặc **d**
 
-    Bạn sẽ phát âm /t/ khi theo sau [voiceless sounds]() như **p**, **k**, **f**, **sh**, **ch**, **th**
+### 2. /t/ sound
+  Bạn sẽ phát âm /t/ khi theo sau [voiceless sounds](#):
 
-    Ví dụ:
-        map /plænt /     -> plant-ed /plænt-id/
-        look /dɪˈsaɪd/   -> decide-d /dɪˈsaɪd-id/
-        laugh            -> laughed
+  |voiceless|   -ed   |
+  |:--------|:--------|
+  |   p     | helped  |
+  |   k     | looked  |
+  |   f     | sniffed |
+  |   gh    | laughed |
+  |   sh    | washed  |
+  |   ch    | watched |
+  |   ss    | kissed  |
+  |   c     | danced  |
+  |   x     | fixed   |
 
-
-3. /d/ sound
+### 3. /d/ sound
 
     Bạn sẽ phát âm /t/ khi theo sau [voiced sounds]() như b, v, l, r, z, j ...
