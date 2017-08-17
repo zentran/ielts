@@ -1,5 +1,5 @@
 ## Phát âm -ed cho đúng
-[Trở về mục lục](readme.md)
+[Trở về mục lục](https://zentran.github.io/ielts)
 
 Mục tiêu của bài viết này để chia sẻ cách phát âm đúng với động từ thêm -ed
 

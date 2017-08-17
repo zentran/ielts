@@ -1,6 +1,6 @@
 # English - Vocabulary
 
-[Trở về mục lục](readme.md)
+[Trở về mục lục](https://zentran.github.io/ielts)
 
 Những tính từ bạn nên dùng để tránh 'very'
 
