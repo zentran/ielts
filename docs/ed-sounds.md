@@ -1,15 +1,17 @@
 # Phát âm -ed cho đúng
 
-Mục tiêu của bài viết này để giúp *ai đó* phân biệt cách phát âm của các động từ khi gắn thêm -ed (V-ed)
+Mục tiêu của bài viết này để chia sẻ cách phát âm đúng với động từ thêm -ed
 
-Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: [**id**](#header 1), [**t**](#header 2) và [**d**](#header 3)
+Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: /id/, /t/ và /d/
 
 ### 1. /id/ sound
 
   Bạn sẽ phát âm /id/ khi theo sau *âm* **t** hoặc **d**
 
 ### 2. /t/ sound
-  Bạn sẽ phát âm /t/ khi theo sau [voiceless sounds](#):
+  Bạn sẽ phát âm /t/ khi theo sau **voiceless sounds**:
+
+    p, k, f, gh, sh, ch, ss, c, x
 
   |voiceless|   -ed   |
   |:--------|:--------|
@@ -25,4 +27,22 @@ Có lẽ bạn thừa biết V-ed có 3 cách phát âm là: [**id**](#header 1)
 
 ### 3. /d/ sound
 
-    Bạn sẽ phát âm /t/ khi theo sau [voiced sounds]() như b, v, l, r, z, j ...
+  Bạn sẽ phát âm /t/ khi theo sau **voiced sounds**:
+
+    l, n, r, g, v, s, z, b, m
+
+  |voiced   |   -ed   |
+  |:--------|:--------|
+  |   l     | called  |
+  |   n     | cleaned |
+  |   r     | offered |
+  |   g     | damaged |
+  |   v     | loved   |
+  |   s     | used    |
+  |   z     | amazed  |
+  |   b     | rubbed  |
+  |   m     | claimed |
+
+### Ghi chú
+
+Bạn có thể phân biệt voiced và voiceless bằng cách đặt tay lên cổ họng khi phát âm. Những Voiced sounds sẽ làm cổ họng rung khi phát âm và ngược lại voiceless sounds thì không (giờ thì bạn biết cái tên gọi bắt nguồn từ đâu rồi đấy). 
