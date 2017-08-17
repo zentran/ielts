@@ -1,2 +1,2 @@
 # IELTS
-- [Cách để tránh 'very' như một native speaker](avoidVery.md)
+- [Cách để tránh 'very' như một native speaker](docs/avoidVery.md)
