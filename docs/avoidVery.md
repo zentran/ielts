@@ -4,6 +4,7 @@
 
 [Trở về mục lục](https://zentran.github.io/ielts)
 
+**Pulished**: 2017 August 12
 ***
 
 Một trong những thói quen người Việt chúng ta thường gặp khi nói tiếng Anh là sử dụng **very** khi mô tả tính chất.
@@ -46,15 +47,16 @@ Ví dụ:
 
 **Tại sao tui lại nói bạn có thể học 24 từ trên nhanh nhất?**
 
-*Vì tui đang muốn nhét 24 từ mới vào đầu bạn và đầu tui theo cách nhanh nhất.
+Vì tui đang muốn nhét 24 từ mới vào đầu bạn và đầu tui theo cách nhanh nhất.
 
 Để dễ hình dung nhé, bạn che cột bên trái và nhìn cột bên phải (không liếc sang trái nhé). Bạn biết dạng từ loại, nghĩa và có thể đặt câu với một từ bất kì không?
 
-Tui cá là không. Nhưng khi bạn biết là cột bên phải là tính từ mạnh hơn của cột bên trái thì bạn có thể làm những điều trên rồi đúng không? Vậy hãy thử đặt câu với 24 từ trên (khoảng 1h) thì bạn nhớ được thêm 24 từ rồi đấy.*
+Tui cá là không. Nhưng khi bạn biết là cột bên phải là tính từ mạnh hơn của cột bên trái thì bạn có thể làm những điều trên rồi đúng không? Vậy hãy thử đặt câu với 24 từ trên (khoảng 1h) thì bạn nhớ được thêm 24 từ rồi đấy.
 
+---
 *Secret Base*
 
 *Đây là **phương pháp sử dụng tính tương quan** mà chúng ta đã áp dụng rất nhiều trong suốt quá trình học tập của mình. Ví dụ ngày xưa chúng ta được học vocabulary bằng cấu trúc noun-adj-adv. Lúc đó, thầy cô dạy như vậy và chúng ta làm theo mà không hỏi tại sao nên chúng ta không thấy được cái hay của cách học đó. Ngoài ra, chúng ta cũng không biết cách áp dụng nó cho một lĩnh vực khác. Vậy từ nay về sau, hãy chú ý hơn đến những phương pháp học mà bạn đã sử dụng nhé. Vì có thể, nó sẽ rất hữu dụng cho một lĩnh vực khác đấy.*
 
-- **Pulished**: 2017 August 18
-- **Source**: Cái table trên là từ một ảnh trên printest nên tui hơm biết của ai. Còn lại là gió của tui đấy =))
+---
+**Source**: Cái table trên là từ một ảnh trên printest nên tui hơm biết của ai. Còn lại là gió của tui đấy =))
