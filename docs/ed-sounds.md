@@ -1,5 +1,5 @@
 ## English - Pronunciation
-## Phát âm -ed cho đúng
+## Cách để khỏi nhức đầu với động từ-ed
 [Trở về mục lục](https://zentran.github.io/ielts)   
 
 **Pulished**: 2017 August 18
